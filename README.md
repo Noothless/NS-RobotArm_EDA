@@ -1,4 +1,3 @@
-# NS-RobotArm_EDA
-EDA files for the NSRA
+# NS-RobotArm EDA files
 
 Main Repository: https://github.com/Noothless/NS-RobotArm
